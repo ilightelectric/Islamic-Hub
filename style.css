@@ -3,6 +3,7 @@ body {
     font-family: 'Roboto', sans-serif; /* Set the font family to Roboto */
     text-align: center; /* Center-align all text within the body */
     background-color: grey;
+    background-image: url('Leonardo_Diffusion_XL_islamic_website_wallpaper_with_mosques_a_3.jpg');
 }
 
 a {
