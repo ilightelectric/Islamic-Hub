@@ -1,6 +1,6 @@
 //JavaScript
 function welcomingVisitors(){
-    alert("Welcome to Islamweb PRE!");
+    alert("Welcome to IslamicHub");
 
 }
 
